@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+##Name: Vishnujith A Nair
+##Registration number: 25MIM10110
+##Branch: M-Tech Integrated (AI)
+##Year: Batch 2025
+##Year of Graduation: 2030
+##What i hope to learn: To understand the need for digital literacy and utilize it in the world of internet.
 <!--
 **VIshnujithN/VishnujithN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
